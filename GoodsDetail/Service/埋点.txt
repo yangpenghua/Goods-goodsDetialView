@@ -1,0 +1,2 @@
+﻿do_auth_scan_id_card,扫描身份证,0
+do_update,升级,0
